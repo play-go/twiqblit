@@ -18,15 +18,15 @@ flutter pub get
 # Скриншоты
 <a>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/play-go/twiqblit/refs/heads/main/image1.png">
-      <img alt="Flutter" src="https://raw.githubusercontent.com/play-go/twiqblit/refs/heads/main/image1.png">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/play-go/twiqblit/refs/heads/main/image4.png">
+      <img alt="Flutter" src="https://raw.githubusercontent.com/play-go/twiqblit/refs/heads/main/image4.png">
     </picture>
   <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/play-go/twiqblit/refs/heads/main/image2.png">
-      <img alt="Flutter" src="https://raw.githubusercontent.com/play-go/twiqblit/refs/heads/main/image1.png">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/play-go/twiqblit/refs/heads/main/image5.png">
+      <img alt="Flutter" src="https://raw.githubusercontent.com/play-go/twiqblit/refs/heads/main/image5.png">
     </picture>
    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/play-go/twiqblit/refs/heads/main/image3.png">
-      <img alt="Flutter" src="https://raw.githubusercontent.com/play-go/twiqblit/refs/heads/main/image1.png">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/play-go/twiqblit/refs/heads/main/image6.png">
+      <img alt="Flutter" src="https://raw.githubusercontent.com/play-go/twiqblit/refs/heads/main/image6.png">
     </picture>
 </a>
